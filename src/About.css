@@ -1,0 +1,44 @@
+.footer{
+    margin-left: 30px;
+    padding: 20px;
+}
+
+.footer>p{
+    font-size: 2rem;
+    font-weight: 500;
+    opacity: 0.33   ;
+}
+.media_logo{
+    display: flex;
+}
+
+.all_footer_info{
+    display: flex;
+    justify-content:space-between;
+    /* padding: 20px; */
+}
+
+.footer_info{
+    margin: 5px;
+    color: white;
+    opacity: 0.32;
+    cursor: pointer;
+}
+
+.footer_button{
+    color: white;
+    cursor: pointer;
+    border: 1px solid #e0e3e6;
+    background-color: transparent;
+    /* width: 8%;
+    height: 25px; */
+    opacity: 0.32;
+    margin-top: 5px;
+}
+
+.all_logo{
+    color:white;
+    margin-left:10px;
+    opacity: 0.35;
+    cursor: pointer;
+}
